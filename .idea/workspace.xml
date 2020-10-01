@@ -1,6 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08982f29-d1ab-4751-a119-500f1d5f5414" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iHdplijhNnnycOqkWBpzjRproh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <package-manager value="yarn" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="yarn" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08982f29-d1ab-4751-a119-500f1d5f5414" name="Default Changelist" comment="" />
+      <created>1601568635504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601568635504</updated>
+      <workItem from="1601568636530" duration="473000" />
+      <workItem from="1601569113441" duration="21000" />
+      <workItem from="1601569136183" duration="150000" />
+      <workItem from="1601569295704" duration="162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="103" y="352" width="1073" height="726" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601568967179">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="103" y="352" width="1073" height="726" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1601568967179" />
+    <state x="193" y="290" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1601569374722">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="193" y="290" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1601569374722" />
+    <state x="140" y="330" key="SettingsEditor" timestamp="1601569280137">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="140" y="330" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1601569280137" />
+    <state x="239" y="428" key="Vcs.Push.Dialog.v2" timestamp="1601569430079">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="239" y="428" key="Vcs.Push.Dialog.v2/0.23.2560.1337@0.23.2560.1337" timestamp="1601569430079" />
+    <state x="461" y="591" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601569420055">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="461" y="591" key="git4idea.remote.GitConfigureRemotesDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1601569420055" />
+    <state x="303" y="326" width="672" height="678" key="search.everywhere.popup" timestamp="1601569428390">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="303" y="326" width="672" height="678" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1601569428390" />
   </component>
 </project>
